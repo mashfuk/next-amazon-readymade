@@ -11,7 +11,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@next-tools/dynamic": "^0.0.11",
-    "axios": "^0.21.1",
+    "axios": "^0.21.4",
     "js-cookie": "^2.2.1",
     "mongoose": "^5.13.2",
     "next": "11.0.1",
